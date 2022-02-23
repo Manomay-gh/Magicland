@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collider
+  - CreationCollider
+  - DestroyCollider
+  - Platform
+  - Enemy
+  - Lava
+  - Bullet
+  - Lake
+  - Ammo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg8
+    uniqueID: 2706183659
+    locked: 0
+  - name: bg7
+    uniqueID: 2613126031
+    locked: 0
+  - name: bg6
+    uniqueID: 3187638823
+    locked: 0
+  - name: bg5
+    uniqueID: 2205945397
+    locked: 0
+  - name: bg4
+    uniqueID: 3633214811
+    locked: 0
+  - name: bg3
+    uniqueID: 141017961
+    locked: 0
+  - name: bg2
+    uniqueID: 2998747639
+    locked: 0
+  - name: background1
+    uniqueID: 3718065661
+    locked: 0
+  - name: Lamp Layer
+    uniqueID: 3583322581
+    locked: 0
+  - name: SignBackGround
+    uniqueID: 662173021
+    locked: 0
+  - name: BlueGroundBAck
+    uniqueID: 2694406085
+    locked: 0
+  - name: Blue Ground
+    uniqueID: 2622256239
+    locked: 0
+  - name: Particle
+    uniqueID: 1937550247
+    locked: 0
+  - name: Ground back
+    uniqueID: 3770139995
+    locked: 0
+  - name: Ground
+    uniqueID: 4082142997
+    locked: 0
+  - name: GroundObjects1
+    uniqueID: 4167834839
+    locked: 0
+  - name: Ground Objects2
+    uniqueID: 1034797819
+    locked: 0
+  - name: Cave Layer back
+    uniqueID: 3445689365
+    locked: 0
+  - name: Cave Layer
+    uniqueID: 2187085199
+    locked: 0
+  - name: SIgns
+    uniqueID: 1746279903
+    locked: 0
+  - name: Player
+    uniqueID: 3363721771
+    locked: 0
+  - name: Player Front
+    uniqueID: 4215997633
+    locked: 0
+  - name: sign front
+    uniqueID: 958748605
+    locked: 0
+  - name: LavaFront
+    uniqueID: 3754216729
+    locked: 0
